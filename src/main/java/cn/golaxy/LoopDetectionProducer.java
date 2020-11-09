@@ -21,7 +21,7 @@ public class LoopDetectionProducer {
      * 运行环境/上下文
      */
     @Context
-    public GraphDatabaseService db;
+    public GraphDatabaseService  db;
 
 
     public List<List<Integer>> createGraphList(String label){
