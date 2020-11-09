@@ -1,2 +1,5 @@
 cn\golaxy\LoopDetectionProducer$CyclicResult.class
+cn\golaxy\UserProducer.class
 cn\golaxy\LoopDetectionProducer.class
+cn\golaxy\UserFunctions.class
+cn\golaxy\UserProducer$NodeResult.class
